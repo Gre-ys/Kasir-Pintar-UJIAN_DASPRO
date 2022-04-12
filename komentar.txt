@@ -1,0 +1,42 @@
+Nama Pembeli/Pelanggan : Irham
+Komentar               : Menarik, mesinnya juga unik
+Menu Favorit           : Batagor
+Bintang                : 4
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : Surya
+Komentar               : Nyaman juga cara pemesanan dan pembayarannya unik
+Menu Favorit           : Mix seafood
+Bintang                : 3
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : Davin
+Komentar               : Luar biasa
+Menu Favorit           : Mie ayam
+Bintang                : 5
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : Rangga
+Komentar               : Makanannya enak dan tempatnya nyaman
+Menu Favorit           : Kalkun panggang
+Bintang                : 4
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : Rangga
+Komentar               : Keren sekali
+Menu Favorit           : Sup kura-kura
+Bintang                : 4
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : Andi
+Komentar               : Sangat baik, saya menyukainya
+Menu Favorit           : Bakso
+Bintang                : 4
+----------------------------------------------------------------
+
+Nama Pembeli/Pelanggan : surya
+Komentar               : sds
+Menu Favorit           : a
+Bintang                : 5
+----------------------------------------------------------------
+
